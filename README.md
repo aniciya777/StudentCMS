@@ -3,3 +3,5 @@
 Моделирование данных с использованием ORM. Контроль успеваемости студентов.
 
 **Остапчук А.В., гр. ПМИ-201**
+
+![Схема базы данных](https://raw.githubusercontent.com/aniciya777/StudentCMS/6a80f1fe8384a2902052449e2239cae68c3e8be5/ER-diagram.svg)
